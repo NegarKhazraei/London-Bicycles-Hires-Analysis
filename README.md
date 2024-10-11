@@ -181,7 +181,7 @@ GROUP BY
 ORDER BY 
   month;
 ```
-<img width="312" alt="Screenshot 2024-10-11 at 12 47 31" src="https://github.com/user-attachments/assets/62d413df-55e8-40c7-952b-19fdfca29448">
+<img width="312" alt="Screenshot 2024-10-11 at 14 44 44" src="https://github.com/user-attachments/assets/3aeccaa7-f02e-472a-9e27-59e7c34fe734">
 
 ---
 

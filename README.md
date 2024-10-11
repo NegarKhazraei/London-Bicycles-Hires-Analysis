@@ -218,7 +218,58 @@ Limit 10;
 
 ### Results
 
+#### Busiest Stations:
+
+Hyde Park, Kings Cross, and Waterloo are the top three busiest starting stations.
+The three busiest ending stations are Hyde Park, Kings Cross, and The Borough.
+
+#### Peak Rental Hours:
+Peak rental hours occur at 5 PM, 6 PM, and 8 AM, indicating high demand during these times.
+
+#### Average Trip Duration:
+The average trip duration is approximately 1,307 seconds (or about 21 minutes).
+
+#### Bike and Dock Availability Issues:
+Stations such as Pimlico, Bethnal Green, and Marylebone frequently run out of bikes.
+Farringdon and Marylebone often face shortages of docking spaces.
+
+#### Seasonal Trends:
+Rentals are significantly higher during the summer months compared to other seasons.
+
+#### Monthly Rentals:
+The total number of rentals in June, July, and August exceeds rentals in other months, suggesting a peak during the summer.
+
+#### Most Common Routes:
+Hyde Park Corner to Hyde Park Corner
+Aquatic Center to Aquatic Center
+Albert Gate to Albert Gate
+
+#### Stations with High Return Rates:
+Hyde Park Corner, Aquatic Centre, and Albert Gate are the stations with the highest frequency of bikes returning to the same location.
+
+---
+
 ### Recommendations
+
+#### Increase Capacity at Busiest Stations:
+Expand the number of bikes and docks at Hyde Park, Kings Cross, and Waterloo to meet high demand.
+
+#### Manage Peak Rental Hours:
+Deploy additional bikes and staff during peak hours (5 PM, 6 PM, and 8 AM) to accommodate increased rentals.
+
+#### Address Bike and Dock Shortages:
+Optimize bike distribution to Pimlico, Bethnal Green, and Marylebone for bikes; ensure Farringdon and Marylebone have adequate docking spaces.
+
+#### Leverage Seasonal Trends:
+Offer promotions during summer to maximize rentals during peak seasons.
+
+#### Promote Common Routes:
+Highlight popular routes (Hyde Park Corner, Aquatic Center, Albert Gate) in marketing campaigns to encourage usage.
+
+#### Gather User Feedback:
+Implement a feedback system to gather insights on availability and user experience, guiding improvements.
+
+---
 
 ### Limitations
 

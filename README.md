@@ -271,9 +271,7 @@ Implement a feedback system to gather insights on availability and user experien
 
 ---
 
-### Limitations
 
-😄
 
 
 

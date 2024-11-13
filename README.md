@@ -3,6 +3,11 @@
 ## Table Of Contents
 - [Project Overiew](#project-overview)
 - [Data Source](#data-source)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
